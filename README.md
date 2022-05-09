@@ -23,5 +23,3 @@ the main feature of this website are:
 
 ✅ responsive footer section using css grid.
 
-
-olid78.github.io/fitness-website-/
